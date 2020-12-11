@@ -3,11 +3,14 @@
 
 <img align="right" src="https://raw.githubusercontent.com/JovianReynaldo/JovianReynaldo/master/rikka.gif" />
 
+<br>
+
 - 🌱 I’m currently enjoying my life
 - 💬 Feel free to reach me 
 - 📫 How to reach me: [my linkedin](https://linkedin.com/in/jovianreynaldo)
-- 😄 Pronouns: Jovian
-- ⚡ Fun fact: I just wanna do what i want 
+- 🎵 Pronouns: Jovian
+- 💖 Fun fact: I just wanna do what i want 
+- 😉 see you around
 
 <br>
 
