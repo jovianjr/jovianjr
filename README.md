@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Jovian
 - ⚡ Fun fact: I just wanna do what i want 
 
+
 **Languange and Tools:**
 <br>
 <img height="25px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
@@ -25,7 +26,6 @@ Here are some ideas to get you started:
 <img height="25px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 <img height="25px" src="https://code.visualstudio.com/favicon.ico" />
 
-**Github Stats:**
 <summary>
   
 [![Jovian Reynaldo Github Stats](https://github-readme-stats.vercel.app/api?username=JovianReynaldo)](https://github.com/JovianReynaldo)
