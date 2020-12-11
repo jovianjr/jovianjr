@@ -1,33 +1,17 @@
-### Hi there 👋
+### Hi there 👋 i am Jovian Reynaldo
+![Profile views](https://gpvc.arturio.dev/JovianReynaldo)
 
-<!--
-**JovianReynaldo/JovianReynaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋 i am Dicka
-![Profile views](https://gpvc.arturio.dev/dicka88)
-
-<img align="right" src="https://raw.githubusercontent.com/dicka88/dicka88/master/52-mab.webp" />
+<img align="right" src="https://raw.githubusercontent.com/JovianReynaldo/JovianReynaldo/master/rikka.gif" />
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Nodejs
-- 👯 I’m looking to collaborate on Open Source Project
+- 🔭 I’m currently working on My Life
+- 🌱 I’m currently learning anything that interest me
 - 🤔 I’m looking for help with Google
-- 💬 Ask me about my life
-- 📫 How to reach me: [linkedin](https://linkedin.com/in/dickaismaji)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I like watch anime and read manga/webtoon  
+- 💬 Feel free to reach me 
+- 📫 How to reach me: [my linkedin](https://linkedin.com/in/jovianreynaldo)
+- 😄 Pronouns: Jovian
+- ⚡ Fun fact: I just wanna do what i want 
 
 **Languange and Tools:**
 <br>
@@ -48,8 +32,8 @@ Here are some ideas to get you started:
 **Github Stats:**
 <summary>
   
-[![Dicka Github Stats](https://github-readme-stats.vercel.app/api?username=dicka88)](https://github.com/dicka88)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicka88&theme=buefy&layout=compact)
+[![Jovian Reynaldo Github Stats](https://github-readme-stats.vercel.app/api?username=JovianReynaldo)](https://github.com/JovianReynaldo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianReynaldo&theme=buefy&layout=compact)
 
 
 </summary>
