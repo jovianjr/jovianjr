@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Jovian
 - ⚡ Fun fact: I just wanna do what i want 
 
+<br>
 
 **Languange and Tools:**
 <br>
