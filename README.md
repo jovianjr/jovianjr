@@ -1,9 +1,10 @@
-### Hi there 👋 i am Jovian Reynaldo
-![Profile views](https://gpvc.arturio.dev/JovianReynaldo)
 
 <img align="right" src="https://raw.githubusercontent.com/JovianReynaldo/JovianReynaldo/master/rikka.gif" />
 
-Here are some ideas to get you started:
+### Hi there 👋 i am Jovian Reynaldo
+![Profile views](https://gpvc.arturio.dev/JovianReynaldo)
+
+<br>
 
 - 🌱 I’m currently enjoying my life
 - 💬 Feel free to reach me 
