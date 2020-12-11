@@ -4,6 +4,7 @@
 <img align="right" src="https://raw.githubusercontent.com/JovianReynaldo/JovianReynaldo/master/rikka.gif" />
 
 <br>
+<br>
 
  🌱 I’m currently enjoying my life <br>
  💬 Feel free to reach me <br>
