@@ -6,12 +6,12 @@
 <br>
 <br>
 
- 🌱 I’m currently enjoying my life <br>
- 💬 Feel free to reach me <br>
- 📫 How to reach me: [my linkedin](https://linkedin.com/in/jovianreynaldo) <br>
- 🎵 Pronouns: Jovian <br>
- 💖 Fun fact: I just wanna do what i want <br>
- 😉 see you around <br>
+- 🌱 I’m currently enjoying my life 
+- 💬 Feel free to reach me 
+- 📫 How to reach me: [my linkedin](https://linkedin.com/in/jovianreynaldo) 
+- 🎵 Pronouns: Jovian 
+- 💖 Fun fact: I just wanna do what i want 
+- 😉 see you around 
 
 <br>
 
