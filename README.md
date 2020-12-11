@@ -5,13 +5,13 @@
 
 <br>
 
-- 🌱 I’m currently enjoying my life 
+- 😄 I’m currently enjoying my life 
 - 💬 Feel free to reach me 
-- 📫 How to reach me: [my linkedin](https://linkedin.com/in/jovianreynaldo) 
-- 🎵 Pronouns: Jovian 
+- 📡 How to reach me: [my linkedin](https://linkedin.com/in/jovianreynaldo) 
+- 🎐 Pronouns: Jovian 
 - 💖 Fun fact: I just wanna do what i want 
 - 🎲 Let's play together 
-- 😉 see you around 
+- 👋 see you around 
 
 <br>
 
