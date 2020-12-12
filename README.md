@@ -1,5 +1,5 @@
-### Hi there 👋 i am Jovian Reynaldo!
-[Profile views](https://gpvc.arturio.dev/JovianReynaldo)
+### Hi there 👋 i am Jovian Reynaldo
+![Profile views](https://gpvc.arturio.dev/JovianReynaldo)
 
 <img align="right" src="https://raw.githubusercontent.com/JovianReynaldo/JovianReynaldo/master/rikka.gif" />
 
