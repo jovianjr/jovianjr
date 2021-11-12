@@ -31,5 +31,5 @@
 
 
   
-[![Jovian Reynaldo Github Stats](https://github-readme-stats.vercel.app/api?username=JovianReynaldo&theme=nord&show_icons=true&hide=stars,contribs&count_private=true)](https://github.com/JovianReynaldo)
+[![Jovian Reynaldo Github Stats](https://github-readme-stats.vercel.app/api?username=JovianReynaldo&theme=nord&show_icons=true&hide=stars,issues&count_private=true)](https://github.com/JovianReynaldo)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianReynaldo&theme=nord&layout=compact&show_icons=true)
