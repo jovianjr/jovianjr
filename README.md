@@ -4,10 +4,10 @@
 
 <br>
 
-- 🌱 I’m currently enjoying my life 
+- 🌱 I’m currently learning JavaScript
 - 💬 Feel free to reach me 
 - 📫 How to reach me: [my linkedin](https://linkedin.com/in/jovianreynaldo) 
-- 😂 Pronouns: Jovian 
+- 😂 Pronouns: He/him 
 - 💖 Fun fact: I just wanna do what i want 
 - 🎲 Let's play together 
 - 👋 see you around 
@@ -32,8 +32,8 @@
 
 <summary>
   
-[![Jovian Reynaldo Github Stats](https://github-readme-stats.vercel.app/api?username=JovianReynaldo)](https://github.com/JovianReynaldo)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianReynaldo&theme=buefy&layout=compact)
+[![Jovian Reynaldo Github Stats](https://github-readme-stats.vercel.app/api?username=JovianReynaldo&theme=cobalt2&layout=compact&show_icons=true&hide=stars,contribs&count_private=true)](https://github.com/JovianReynaldo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianReynaldo&theme=cobalt2&layout=compact&show_icons=true)
 
 
 </summary>
