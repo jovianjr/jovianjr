@@ -1,6 +1,6 @@
 ### Hi there 👋 i am Jovian Reynaldo
 ![Profile views](https://gpvc.arturio.dev/JovianReynaldo)
-<img align="right" src="https://raw.githubusercontent.com/JovianReynaldo/JovianReynaldo/master/rikka.gif" />
+<img align="right" src="https://images6.fanpop.com/image/photos/36900000/Anime-GIF-anime-gif-36988470-500-280.gif" />
 
 <br>
 
@@ -30,10 +30,6 @@
 <img height="25px" src="https://code.visualstudio.com/favicon.ico" />
 
 
-<summary>
   
-[![Jovian Reynaldo Github Stats](https://github-readme-stats.vercel.app/api?username=JovianReynaldo&theme=cobalt2&layout=compact&show_icons=true&hide=stars,contribs&count_private=true)](https://github.com/JovianReynaldo)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianReynaldo&theme=cobalt2&layout=compact&show_icons=true)
-
-
-</summary>
+[![Jovian Reynaldo Github Stats](https://github-readme-stats.vercel.app/api?username=JovianReynaldo&theme=nord&show_icons=true&hide=stars,contribs&count_private=true)](https://github.com/JovianReynaldo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianReynaldo&theme=nord&layout=compact&show_icons=true)
