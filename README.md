@@ -1,6 +1,4 @@
-### Hi there 👋 i am Jovian Reynaldo
-![Profile views](https://gpvc.arturio.dev/JovianReynaldo)
-<img align="right" src="https://images6.fanpop.com/image/photos/36900000/Anime-GIF-anime-gif-36988470-500-280.gif" />
+### Hi there 👋 i am Jovian
 
 <br>
 
